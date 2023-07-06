@@ -1,0 +1,7 @@
+{
+
+"email" : "Test@gmail.com",
+"password" : "Test@123",
+"emails": ["Test@gmail.com","Test1@gmail.com","Test2@gmail.com"]
+
+}
