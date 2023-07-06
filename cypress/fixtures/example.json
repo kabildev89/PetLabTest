@@ -1,7 +1,7 @@
 {
   "name": "Using fixtures to represent data",
   "test_email": "test@test.com",
-  "shipping_first_name": "Sharath",
+  "shipping_first_name": "Kabil",
   "shipping_last_name": "Automation",
   "shipping_address": "123 Test Avenue",
   "shipping_city": "San Bernardino",
@@ -23,15 +23,6 @@
   "Three_Tubs_OTP_Cost": "$83.97",
   "Two_Tubs_OTP_Cost": "$59.71",
 
-
-  "Price_validations_on_AddressDetailsPage": ["Probiotic Chew - Subscription","Billed Monthly","2.5oz Wild Caught Salmon Bites",
-  "$29.86","FREE","$57.22","$2.61","$32.47","$32.35"],
-
-  "Price_validations_on_FinalCheckoutPage": ["Probiotic Chew - Subscription","Billed Monthly","2.5oz Wild Caught Salmon Bites",
-  "$29.86","FREE","$115.92","$5.43","$67.57","$58.77"],
-
-  "url" :["https://offer.thepetlabco.com/probiotic-chews",
-  "https://offer.thepetlabco.com/jointcarechews","https://offer.thepetlabco.com/anal-gland-support"]
 
 
 }
